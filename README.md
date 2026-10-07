@@ -360,12 +360,6 @@ pytest
 The suite needs no data files.
 
 ---
-
-## License
-
-MIT. See [LICENSE](LICENSE).
-
----
  
 ## Acknowledgements
 
